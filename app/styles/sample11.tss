@@ -1,0 +1,22 @@
+"Window": {
+  backgroundColor: "white"
+},
+"Window[platform=android]": {
+  exitOnClose: false,
+  navBarHidden: false
+},
+"#canvasView": {
+  width: Ti.UI.FILL,
+  height: Ti.UI.FILL,
+  backgroundColor: "green"
+},
+"#boxView": {
+  width: "100dp",
+  height: "100dp",
+  top: 10,
+  left: 10,
+  backgroundColor: "blue",
+  borderWidth: 5,
+  borderRadius: 10,
+  borderColor: "red"
+}

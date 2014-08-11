@@ -1,0 +1,1 @@
+<Alloy><Window id="baseWindow"><View id="canvasView"><ImageView id="imgView" onClick="doClick"></ImageView></View></Window></Alloy>

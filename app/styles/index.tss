@@ -1,0 +1,18 @@
+".container": {
+  backgroundColor: "white"
+},
+".container[platform=android]": {
+  exitOnClose: true,
+  navBarHidden: false
+},
+"TableViewSection[platform=android]": {
+  font: {
+    fontSize:"24dp",
+    fontWeight:"bold"
+  }
+},
+"TableViewRow[platform=android]": {
+  font: {
+    fontSize:"20dp"
+  }
+}
